@@ -1,6 +1,8 @@
 # Digital-Literacy---Evaluated-Course-Project
 Student Details Name: Tejas Kumar Sahu
+
 Branch: Computer Science and Engineering
+
 Year: First Year
 
 Project Overview This project was completed as part of the Digital Literacy course. It focuses on developing awareness about digital tools, online communication, collaboration platforms, and cyber safety practices.

@@ -1,1 +1,29 @@
+Task 4 – Professional Email Drafts
+________________________________________
+Email 1 – Assignment Extension Request (Student to Professor)
 
+
+Subject: Request for Assignment Submission Deadline Extension – CSE0001
+Dear Prof. Suneet Joshi,
+  I hope this email finds you well. I am Tejas K Sahu, a first-year B.Tech (CSE) student enrolled in CSE0001 – Digital Literacy.
+I am writing to respectfully request a short extension of three days for the submission of the Digital Literacy Project, currently due on [original deadline]. Over the past week, I have been unwell and was unable to devote sufficient time to completing the project to the standard I had planned. I have since recovered and am making steady progress; however, I would greatly appreciate the additional time to ensure the quality of my submission.
+I understand that deadlines are important, and I assure you that this is an exceptional circumstance. I have already completed Tasks 1 through 3 and am working on the remaining sections.
+Thank you for your time and consideration. I look forward to your response.
+Warm regards, 
+Tejas K Sahu 
+B.Tech CSE – First Year 
+VIT Bhopal University 
+________________________________________
+Email 2 – Internship Expression of Interest (Student to Internship Coordinator)
+
+
+Subject: Application for Summer Internship Opportunity – B.Tech CSE Student
+Dear Sir/Madam,
+I am Tejas K Sahu, a first-year B.Tech student in Computer Science and Engineering at VIT Bhopal University. I came across your organisation’s internship programme and am writing to express my sincere interest in a summer internship opportunity.
+I am eager to apply my foundational knowledge of programming and digital tools in a practical, professional setting. I am a quick learner, comfortable with collaborative work environments, and highly motivated to contribute meaningfully to your team. I am available for an internship during [mention duration, e.g., May–July 2026].
+I have attached my resume and a brief portfolio for your review. I would be grateful for the opportunity to discuss how I might contribute to your organisation.
+Thank you for considering my application. I look forward to hearing from you.
+Yours sincerely, 
+Tejas K Sahu 
+B.Tech CSE – First Year, 
+VIT Bhopal University

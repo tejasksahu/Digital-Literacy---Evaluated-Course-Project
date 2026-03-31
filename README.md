@@ -24,7 +24,7 @@ Conclusion: This project helped me understand the importance of digital literacy
 
 Repository structure:
 
-report
+Report
 
 task-1-presentation
 

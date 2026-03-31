@@ -1,0 +1,25 @@
+General Online Safety
+•	Use strong, unique passwords for every online account. A strong password has at least 12 characters, including uppercase letters, numbers, and symbols. Never use your name or date of birth.
+•	Enable Two-Factor Authentication (2FA) on all important accounts — email, social media, banking apps — for an extra layer of security.
+•	Keep your apps and operating system updated regularly, as updates patch security vulnerabilities that attackers exploit.
+•	Avoid clicking links in unsolicited emails or SMS messages — even if they appear to be from your bank, college, or a popular app. Always open websites by typing the URL directly into your browser.
+•	Check the URL before entering any personal information. Fake websites often use URLs that look similar to real ones (e.g., sbi-secure.in instead of onlinesbi.com). Look for “https://” and a padlock icon.
+•	Never share your OTP with anyone — not over the phone, not via chat, not even with someone claiming to be a bank employee. Legitimate banks never ask for OTPs.
+________________________________________
+Financial & UPI Safety (Mandatory)
+•	Never scan a QR code or enter your UPI PIN to “receive” money. You only need your PIN to send money — a payment request should never require your PIN.
+•	Verify the payee’s UPI ID carefully before confirming any transaction, especially when paying a new contact. One wrong character can send money to the wrong person.
+•	Do not save your UPI PIN or internet banking password on your phone’s notes app, messaging apps, or any shared device.
+•	Set transaction limits on your UPI app and internet banking to reduce potential losses if your account is ever compromised.
+________________________________________
+Social & Device Safety
+•	Do not use public Wi-Fi for accessing banking apps, email, or any platform where you enter a password. Use mobile data or a trusted private network.
+•	Lock your phone with a strong PIN, fingerprint, or face lock, and enable remote wipe in case it is lost or stolen.
+•	Be cautious of unknown calls claiming to be from banks, courier companies, or government agencies asking for personal or financial details.
+________________________________________
+Reporting Cybercrime
+If you or someone you know becomes a victim of cybercrime:
+•	National Cyber Crime Reporting Portal: https://cybercrime.gov.in
+•	Cyber Crime Helpline: 1930 (available 24x7 across India)
+•	Report financial fraud within 72 hours to maximise the chance of reversing the transaction.
+________________________________________

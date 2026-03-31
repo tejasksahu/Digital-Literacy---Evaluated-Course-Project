@@ -1,1 +1,33 @@
+Cybercrime Case Study: Phishing
+________________________________________
+What is Phishing?
+Phishing is a type of cybercrime in which an attacker impersonates a legitimate, trusted organisation — such as a bank, university, government body, or popular app — to trick a victim into voluntarily revealing sensitive information such as passwords, one-time passwords (OTPs), bank account numbers, or credit card details.
+________________________________________
+Case Study: The Fake Bank Alert
+Scenario (Realistic Fictional Incident)
+Rahul, a 20-year-old engineering student in Bhopal, received an SMS one morning that appeared to be from his bank. The message read:
+“ALERT: Suspicious activity detected on your SBI account. Your account will be blocked in 24 hours. Verify now: http://sbi-secure-verify.in/login”
+The message created a sense of urgency and fear. Rahul clicked the link, which opened a webpage that looked identical to the official SBI NetBanking login page — same logo, same layout, same colour scheme. He entered his username, password, and then his OTP when prompted.
+Within minutes, Rs. 18,500 was transferred out of his account. The website was a fake — a clone created by attackers hosted on a domain designed to look legitimate at first glance.
+________________________________________
+How It Happened – Step by Step
+1.	Attacker creates a fake domain that closely resembles a trusted bank’s website.
+2.	Bulk SMS is sent to thousands of numbers with a fear-inducing message and a link to the fake site.
+3.	Victim clicks the link due to urgency and lands on the cloned page.
+4.	Victim enters credentials — username, password, and OTP.
+5.	Attacker captures the credentials in real time and immediately logs into the real banking portal.
+6.	Funds are transferred before the victim realises what happened.
+________________________________________
+Who is Typically Targeted?
+•	College students and young adults who bank online frequently
+•	Elderly users unfamiliar with phishing tactics
+•	People in a hurry or stressed when they receive the message
+•	Anyone who does not verify the URL before entering credentials
+________________________________________
+Consequences
+•	Immediate financial loss (often non-recoverable if not reported within 72 hours)
+•	Compromise of online accounts if the same password is reused elsewhere
+•	Identity theft if personal documents were shared on the fake site
+•	Psychological distress and loss of trust in digital financial systems
+________________________________________
 
